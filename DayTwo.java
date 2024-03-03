@@ -1,4 +1,4 @@
-// Day 3 of 100. Practiced File handling today
+// Day 2 of 100. Practiced File handling today
 // Improved a mini project by saving the score using filehandling and ArrayList
 
 import java.util.*;
